@@ -36,5 +36,14 @@ align-items: center;
 .list li {
   margin-right: 20px;
   text-decoration: none;
-  cursor: pointer;
+}
+
+.liverepo {
+  display: flex;
+  justify-content: space-evenly;
+  color:#42dca3;
+}
+
+.live a:hover {
+color:red;
 }
